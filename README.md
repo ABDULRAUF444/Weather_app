@@ -15,11 +15,6 @@ A simple and elegant weather app built with HTML, CSS, and JavaScript using the 
 
 ---
 
-## 📸 Screenshot
-
-![screenshot](images/screenshot.png) <!-- Replace with actual screenshot if available -->
-
----
 
 ## 🛠️ Technologies Used
 
